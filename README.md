@@ -2,7 +2,7 @@
 
 ### I am Iwan Dwi Prakoso
 - Software engineering enthusiast.
-- A Informatics Engineering Undergraduate Student. 
+- An Informatics Engineering Undergraduate Student. 
 - Currently working on some side projects based on Web Development.
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 
